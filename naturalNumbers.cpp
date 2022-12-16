@@ -11,13 +11,19 @@ int accept()
     return n;
 }
 
-int main()
+int sum()
 {
     int sum = 0;
     int x = accept();
-    for(int i = 1;i<=x;i++){
+    for (int i = 1; i <= x; i++)
+    {
         sum = sum + i;
     }
-    cout << "The sum of natural numbers uptil n is: " << sum;
+    return sum;
+}
+
+int main()
+{
+    cout << "The sum of natural numbers uptil n is: " << sum();
     return 1;
 }
