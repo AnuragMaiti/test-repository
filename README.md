@@ -8,3 +8,5 @@ Just trying to learn github, its pretty cool.
 Second update, learning fast!
 
 Third update to the readme, please help im being kidnapped.
+
+Fourth update from local computer to test code conflict and resolution.
