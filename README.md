@@ -9,4 +9,4 @@ Second update, learning fast!
 
 Third update to the readme, please help im being kidnapped.
 
-Fourth update from local computer to test code conflict and resolution.
+Fourth update for resolution of conflict.
